@@ -18,6 +18,7 @@ public class BaseClass {
 		File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		FileHandler.copy(file, new File(System.getProperty("user.dir") + "/Reports/" + screenshotName + ".png"));
 		test.log(LogStatus.INFO, "Snapshot below: " + test.addScreenCapture(screenshotName + ".png"));
+		//added this comment
 
 	}
 
