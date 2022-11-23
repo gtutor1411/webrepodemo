@@ -1,0 +1,68 @@
+2022-11-17 18:49:26.535 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 18:49:26.582 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 18:49:34.512 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 18:49:34.515 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 18:53:03.403 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 18:53:03.420 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 18:53:50.919 [main] ERROR com.busyqa.auto.WebTests - Exception found in initial test
+2022-11-17 18:53:50.920 [main] ERROR com.busyqa.auto.WebTests - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"Rajinikant"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'CC-GIRISH', ip: '192.168.2.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [73e105abb891e5c6c93055c635dbe7dd, findElement {using=xpath, value=Rajinikant}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\GIRISH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61389}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61389/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 73e105abb891e5c6c93055c635dbe7dd
+2022-11-17 18:53:51.579 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 18:53:51.584 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 19:20:17.894 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 19:20:17.943 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 19:21:04.821 [main] ERROR com.busyqa.auto.WebTests - Exception found in initial test
+2022-11-17 19:21:04.823 [main] ERROR com.busyqa.auto.WebTests - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"Rajinikant"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.0', revision: '87802e897b'
+System info: host: 'CC-GIRISH', ip: '192.168.2.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1cfbd3e7ed75c191e9b2defb67ba4370, findElement {using=xpath, value=Rajinikant}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\GIRISH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61576}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61576/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1cfbd3e7ed75c191e9b2defb67ba4370
+2022-11-17 19:21:05.528 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 19:21:05.531 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 19:36:29.537 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 19:36:29.577 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 19:36:40.915 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 19:36:40.919 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 19:42:32.919 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 19:42:33.070 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 19:42:43.539 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 19:42:43.540 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 19:42:52.418 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 19:42:52.425 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 19:43:01.786 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 19:43:01.792 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 19:43:11.206 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 19:43:11.207 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 19:43:21.346 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 19:43:21.349 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 19:56:00.921 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 19:56:00.999 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 19:56:11.776 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 19:56:11.778 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 20:35:28.768 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 20:35:28.893 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 20:35:40.339 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 20:35:40.344 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 20:37:13.584 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 20:37:13.669 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 20:37:25.456 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 20:37:25.459 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 20:47:37.765 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 20:47:37.887 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 20:47:51.711 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 20:47:51.715 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
+2022-11-17 20:52:47.071 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite
+2022-11-17 20:52:47.312 [main] INFO  com.busyqa.auto.WebTests - Initiated Testing Suite in CHROME Browser
+2022-11-17 20:53:01.869 [main] INFO  com.busyqa.auto.WebTests - Closed Browser
+2022-11-17 20:53:01.871 [main] INFO  com.busyqa.auto.WebTests - Reporting completed
